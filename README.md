@@ -11,4 +11,4 @@
 
 Para usar Doodle Jump, siga estas etapas:
 
-Você pode acessar o projeto online [neste]() link ou baixar o projeto para sua máquina local e abrir o index.html no seu navegador de preferência.
+Você pode acessar o projeto online [neste](https://levxyca-flappybird.netlify.app) link ou baixar o projeto para sua máquina local e abrir o index.html no seu navegador de preferência.
