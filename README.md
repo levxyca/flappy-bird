@@ -1,6 +1,5 @@
 # Clone Flappy Bird
 
-![GitHub repo size](https://img.shields.io/github/repo-size/levxyca/flappy-bird?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/levxyca/flappy-bird?style=for-the-badge)
 
 <img src="exemplo-imagem.png" alt="exemplo imagem">
